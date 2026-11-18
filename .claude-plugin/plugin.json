@@ -1,0 +1,11 @@
+{
+  "name": "sakura-petals",
+  "version": "0.3.0",
+  "description": "Cherry blossom theme with falling petals that pile up as the session goes on",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "mightymauls"
+  },
+  "repository": "https://github.com/mightymauls/sakura-petals"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sakura-petals",
+  "owner": {
+    "name": "mightymauls"
+  },
+  "description": "Sakura Petals: a cherry blossom theme for Claude with falling petals that pile up as the session runs",
+  "plugins": [
+    {
+      "name": "sakura-petals",
+      "source": "./"
+    }
+  ]
+}
